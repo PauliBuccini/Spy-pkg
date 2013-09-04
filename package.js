@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    api.use('server');
+    api.use();
     api.add_files('lib/client/client.js', 'client');
     api.add_files('lib/client/startup.html', 'client');
     api.add_files('lib/server/manager.js', 'server');
