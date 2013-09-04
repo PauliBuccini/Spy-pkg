@@ -3,7 +3,7 @@
     "description": "A simple smart package for watching and counting clients.",
     "homepage": "https://github.com/iihtimsad/Spy-pkg",
     "author": "Douglas Adam Smith II (http://dasmithii.com)",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "git": "https://github.com/iihtimsad/Spy-pkg.git",
     "packages": { 
     }
